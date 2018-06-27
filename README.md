@@ -1,5 +1,6 @@
-# awesome_stackoverflow
-List of awesome stackoverflow questions
+# The list of awesome Stackoverflow's answers and questions
+
+You can find many of them in [this list](https://stackoverflow.com/questions?sort=votes).
 
 - [Programming languages](#programming-languages)
     - [C++](#c++)
@@ -12,10 +13,17 @@ List of awesome stackoverflow questions
 
 ## C++
 
-- [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
+Basic
+
+- [When do you use the “this” keyword?](https://stackoverflow.com/questions/23250/when-do-you-use-the-this-keyword)
 - [How do you set, clear, and toggle a single bit?](https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit)
+
+Complex
+
+- [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
 - [Can a local variable's memory be accessed outside its scope?
 ](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
+- [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 
 ## Python
 
