@@ -2,12 +2,18 @@
 
 You can find many of them in [this list](https://stackoverflow.com/questions?sort=votes).
 
+- [General problems](#general-problems)
 - [Programming languages](#programming-languages)
     - [C++](#c++)
     - [Python](#python)
 
 - [Entertaining](#entertaining)
 ---
+
+# General problems
+
+- [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+
 
 # Programming languages
 
@@ -24,6 +30,8 @@ Complex
 - [Can a local variable's memory be accessed outside its scope?
 ](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
 - [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
+- [Why should C++ programmers minimize use of 'new'?
+](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
 
 ## Python
 
