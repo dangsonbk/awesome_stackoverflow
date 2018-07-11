@@ -3,6 +3,7 @@
 You can find many of them in [this list](https://stackoverflow.com/questions?sort=votes).
 
 - [General problems](#general-problems)
+- [Algorithm](#algorithm)
 - [Programming languages](#programming-languages)
     - [C++](#c++)
     - [Python](#python)
@@ -14,6 +15,9 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
 
+# Algorithm
+
+- (StackExchange)[Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
 
 # Programming languages
 
