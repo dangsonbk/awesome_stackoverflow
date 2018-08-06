@@ -58,3 +58,4 @@ Complex
 - [What is the best comment in source code you have ever encountered? [closed]
 ](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)
 - [Why does `++[[]][+[]]+[+[]]` return the string “10”?](https://stackoverflow.com/questions/7202157/why-does-return-the-string-10)
+- [Is it possible to disable the network in iOS Simulator?](https://stackoverflow.com/questions/4808433/is-it-possible-to-disable-the-network-in-ios-simulator) [this answer](https://stackoverflow.com/a/13831212/2964364)
