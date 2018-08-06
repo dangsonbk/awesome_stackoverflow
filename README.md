@@ -51,6 +51,7 @@ Complex
 - [How to merge two dictionaries in a single expression?](https://stackoverflow.com/questions/38987/how-to-merge-two-dictionaries-in-a-single-expression)
 - [Difference between append vs. extend list methods in Python](https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python) 
 - [What are metaclasses in Python?](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
+- [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 
 # Entertaining
 - [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color) :muscle:
