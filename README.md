@@ -7,6 +7,7 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 - [Programming languages](#programming-languages)
     - [C++](#c++)
     - [Python](#python)
+    - [JavaScript](#javascript)
 
 - [Entertaining](#entertaining)
 ---
@@ -44,6 +45,7 @@ Complex
 
 - [How do I check if a list is empty?](https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty) 
 - [Checking whether a variable is an integer or not](https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not)
+- [Does Python have a ternary conditional operator?](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator)
 - [How do I check whether a file exists?](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists)
 - [What does the `yield` keyword do?](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do?rq=1)
 - [What is `__init__.py` for?](https://stackoverflow.com/questions/448271/what-is-init-py-for)
@@ -52,6 +54,15 @@ Complex
 - [Difference between append vs. extend list methods in Python](https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python) 
 - [What are metaclasses in Python?](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
 - [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
+
+## JavaScript
+
+- [What is the !! (not not) operator in JavaScript?](https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript)
+- [Which equals operator (== vs ===) should be used in JavaScript comparisons?](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons)
+- [How do I remove a particular element from an array in JavaScript?](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript)
+- [How do JavaScript closures work?](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+- [How to check whether a string contains a substring in JavaScript?](https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript)
+- [How to replace all occurrences of a string in JavaScript?](https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascript)
 
 # Entertaining
 - [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color) :muscle:
