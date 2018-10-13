@@ -5,7 +5,7 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 - [General problems](#general-problems)
 - [Algorithm](#algorithm)
 - [Programming languages](#programming-languages)
-    - [C/C++](#c/c++)
+    - [C/C++](#cc)
     - [Python](#python)
     - [JavaScript](#javascript)
 
