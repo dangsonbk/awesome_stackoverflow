@@ -5,7 +5,7 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 - [General problems](#general-problems)
 - [Algorithm](#algorithm)
 - [Programming languages](#programming-languages)
-    - [C++](#c++)
+    - [C/C++](#c/c++)
     - [Python](#python)
     - [JavaScript](#javascript)
 
@@ -22,7 +22,7 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 
 # Programming languages
 
-## C++
+## C/C++
 
 Basic
 
@@ -70,3 +70,4 @@ Complex
 ](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)
 - [Why does `++[[]][+[]]+[+[]]` return the string “10”?](https://stackoverflow.com/questions/7202157/why-does-return-the-string-10)
 - [Is it possible to disable the network in iOS Simulator?](https://stackoverflow.com/questions/4808433/is-it-possible-to-disable-the-network-in-ios-simulator) [this answer](https://stackoverflow.com/a/13831212/2964364)
+- [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c)
