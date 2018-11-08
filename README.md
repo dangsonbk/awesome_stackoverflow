@@ -12,12 +12,13 @@ You can find many of them in [this list](https://stackoverflow.com/questions?sor
 - [Entertaining](#entertaining)
 ---
 
-# General problems
+# General problems: Algorithm, CS, Performance ...
 
 - [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
-
-# Algorithm
-
+- [Why is printing “B” dramatically slower than printing “#”?](https://stackoverflow.com/questions/21947452/why-is-printing-b-dramatically-slower-than-printing)
+- [Why is my program slow when looping over exactly 8192 elements?](https://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements)
+- [Why are elementwise additions much faster in separate loops than in a combined loop?](https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l)
+- [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
 - (StackExchange)[Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
 
 # Programming languages
@@ -35,12 +36,9 @@ Basic
 
 Complex
 
-- [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
 - [Can a local variable's memory be accessed outside its scope?](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
 - [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 - [Why should C++ programmers minimize use of 'new'?](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
-- [Why is my program slow when looping over exactly 8192 elements?](https://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements)
-- [Why are elementwise additions much faster in separate loops than in a combined loop?](https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l)
 
 ## Python
 
