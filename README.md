@@ -2,8 +2,7 @@
 
 You can find many of them in [this list](https://stackoverflow.com/questions?sort=votes).
 
-- [General problems](#general-problems)
-- [Algorithm](#algorithm)
+- [General problems](#general-problems-algorithm-cs-performance-)
 - [Programming languages](#programming-languages)
     - [C/C++](#cc)
     - [Python](#python)
