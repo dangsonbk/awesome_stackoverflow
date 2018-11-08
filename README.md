@@ -28,17 +28,17 @@ Basic
 
 - [When do you use the “this” keyword?](https://stackoverflow.com/questions/23250/when-do-you-use-the-this-keyword)
 - [How do you set, clear, and toggle a single bit?](https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit)
+- [What is the difference between #include <filename> and #include “filename”?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
 - [In what cases do I use malloc vs new?](https://stackoverflow.com/questions/184537/in-what-cases-do-i-use-malloc-vs-new)
 - [How to allocate aligned memory only using the standard library?](https://stackoverflow.com/questions/227897/how-to-allocate-aligned-memory-only-using-the-standard-library)
+- [What is meant by Resource Acquisition is Initialization (RAII)?](https://stackoverflow.com/questions/2321511/what-is-meant-by-resource-acquisition-is-initialization-raii)
 
 Complex
 
 - [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
-- [Can a local variable's memory be accessed outside its scope?
-](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
+- [Can a local variable's memory be accessed outside its scope?](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
 - [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
-- [Why should C++ programmers minimize use of 'new'?
-](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
+- [Why should C++ programmers minimize use of 'new'?](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
 - [Why is my program slow when looping over exactly 8192 elements?](https://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements)
 
 ## Python
