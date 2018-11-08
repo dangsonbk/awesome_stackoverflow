@@ -40,6 +40,7 @@ Complex
 - [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 - [Why should C++ programmers minimize use of 'new'?](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
 - [Why is my program slow when looping over exactly 8192 elements?](https://stackoverflow.com/questions/12264970/why-is-my-program-slow-when-looping-over-exactly-8192-elements)
+- [Why are elementwise additions much faster in separate loops than in a combined loop?](https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l)
 
 ## Python
 
