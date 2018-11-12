@@ -32,6 +32,7 @@ Basic
 - [In what cases do I use malloc vs new?](https://stackoverflow.com/questions/184537/in-what-cases-do-i-use-malloc-vs-new)
 - [How to allocate aligned memory only using the standard library?](https://stackoverflow.com/questions/227897/how-to-allocate-aligned-memory-only-using-the-standard-library)
 - [What is meant by Resource Acquisition is Initialization (RAII)?](https://stackoverflow.com/questions/2321511/what-is-meant-by-resource-acquisition-is-initialization-raii)
+- [How do I iterate over the words of a string?](https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string)
 
 Complex
 
