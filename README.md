@@ -54,6 +54,7 @@ Complex
 - [Difference between append vs. extend list methods in Python](https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python) 
 - [What are metaclasses in Python?](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
 - [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
+- [How is set() implemented?](https://stackoverflow.com/questions/3949310/how-is-set-implemented)
 
 ## JavaScript
 
