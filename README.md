@@ -55,6 +55,7 @@ Complex
 - [What are metaclasses in Python?](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python)
 - [How to clone or copy a list?](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list)
 - [How is set() implemented?](https://stackoverflow.com/questions/3949310/how-is-set-implemented)
+- [Python join: why is it string.join(list) instead of list.join(string)](https://stackoverflow.com/questions/493819/python-join-why-is-it-string-joinlist-instead-of-list-joinstring)
 
 ## JavaScript
 
