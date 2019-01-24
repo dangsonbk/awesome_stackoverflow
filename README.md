@@ -1,7 +1,7 @@
 # The list of awesome Stackoverflow's answers and questions
 
 You can find many of them in [this list](https://stackoverflow.com/questions?sort=votes).
-I'm adding more and more to the list. If you like to contribute, feel free to make Pull requests.
+I'm adding more and more. If you like to contribute, feel free to create Pull requests.
 
 - [General problems](#general-problems-algorithm-cs-performance-)
 - [Programming languages](#programming-languages)
