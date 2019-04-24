@@ -34,6 +34,7 @@ Basic
 - [How to allocate aligned memory only using the standard library?](https://stackoverflow.com/questions/227897/how-to-allocate-aligned-memory-only-using-the-standard-library)
 - [What is meant by Resource Acquisition is Initialization (RAII)?](https://stackoverflow.com/questions/2321511/what-is-meant-by-resource-acquisition-is-initialization-raii)
 - [How do I iterate over the words of a string?](https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string)
+- [Declaring variables inside loops, good practice or bad practice?](https://stackoverflow.com/questions/7959573/declaring-variables-inside-loops-good-practice-or-bad-practice)
 
 Complex
 
