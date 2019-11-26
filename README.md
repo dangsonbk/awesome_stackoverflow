@@ -74,3 +74,4 @@ Complex
 - [Why does `++[[]][+[]]+[+[]]` return the string “10”?](https://stackoverflow.com/questions/7202157/why-does-return-the-string-10)
 - [Is it possible to disable the network in iOS Simulator?](https://stackoverflow.com/questions/4808433/is-it-possible-to-disable-the-network-in-ios-simulator) [this answer](https://stackoverflow.com/a/13831212/2964364)
 - [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c)
+- [GitHub satanically messing with Markdown - changes 666 to DCLXVI](https://stackoverflow.com/questions/44619165/github-satanically-messing-with-markdown-changes-666-to-dclxvi)
