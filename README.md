@@ -8,6 +8,7 @@ I'm adding more and more. If you like to contribute, feel free to create Pull re
     - [C/C++](#cc)
     - [Python](#python)
     - [JavaScript](#javascript)
+    - [Uncategory](#uncategory)
 
 - [Entertaining](#entertaining)
 ---
@@ -66,6 +67,9 @@ Complex
 - [How do JavaScript closures work?](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 - [How to check whether a string contains a substring in JavaScript?](https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript)
 - [How to replace all occurrences of a string in JavaScript?](https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascript)
+
+## Uncategory
+- [How to sleep for five seconds in a batch file/cmd](https://stackoverflow.com/questions/1672338/how-to-sleep-for-five-seconds-in-a-batch-file-cmd)
 
 # Entertaining
 - [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color) :muscle:
