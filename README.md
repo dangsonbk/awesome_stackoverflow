@@ -21,6 +21,7 @@ I'm adding more and more. If you like to contribute, feel free to create Pull re
 - [Why are elementwise additions much faster in separate loops than in a combined loop?](https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l)
 - [Why is it faster to process a sorted array than an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array) :star2::star2::star2::star2::star2:
 - (StackExchange)[Which hashing algorithm is best for uniqueness and speed?](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed)
+- (StackExchange)[Which algorithms/data structures should I “recognize” and know by name? [closed]](https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name)
 
 # Programming languages
 
