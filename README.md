@@ -38,7 +38,6 @@ Basic
 - [How do I iterate over the words of a string?](https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string)
 - [Declaring variables inside loops, good practice or bad practice?](https://stackoverflow.com/questions/7959573/declaring-variables-inside-loops-good-practice-or-bad-practice)
 - [What does the explicit keyword mean?](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean)
-- [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 
 More Complex
 
