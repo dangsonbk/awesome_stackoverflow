@@ -37,14 +37,15 @@ Basic
 - [What is meant by Resource Acquisition is Initialization (RAII)?](https://stackoverflow.com/questions/2321511/what-is-meant-by-resource-acquisition-is-initialization-raii)
 - [How do I iterate over the words of a string?](https://stackoverflow.com/questions/236129/how-do-i-iterate-over-the-words-of-a-string)
 - [Declaring variables inside loops, good practice or bad practice?](https://stackoverflow.com/questions/7959573/declaring-variables-inside-loops-good-practice-or-bad-practice)
-- [What is The Rule of Three?](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
+- [What does the explicit keyword mean?](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean)
+- [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 
-Complex
+More Complex
 
 - [Can a local variable's memory be accessed outside its scope?](https://stackoverflow.com/questions/6441218/can-a-local-variables-memory-be-accessed-outside-its-scope)
-- [What is the “-->” operator in C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c) :grin::grin::grin:
 - [Why should C++ programmers minimize use of 'new'?](https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new)
 - [What does the thread_local mean in C++11?](https://stackoverflow.com/questions/11983875/what-does-the-thread-local-mean-in-c11)
+- [What is The Rule of Three?](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 
 ## Python
 
